@@ -1,6 +1,6 @@
-This repository contains materials for a hands-on training **Security of BIOS/UEFI System Firmware from Attacker and Defender Perspectives**
+# Training: Security of BIOS/UEFI System Firmware from Attacker and Defender Perspectives
 
-# Description
+This repository contains materials for a hands-on training **Security of BIOS/UEFI System Firmware from Attacker and Defender Perspectives**
 
 A variety of attacks targeting system firmware have been discussed publicly, drawing attention to the pre-boot and firmware components of the platform such as BIOS and SMM, OS loaders and secure booting. This training will detail and organize objectives, attack vectors, vulnerabilities and exploits against various types of system firmware such as legacy BIOS, SMI handlers and UEFI based firmware, mitigations as well as tools and methods available to analyze security of such firmware components. It will also detail protections available in hardware and in firmware such as Secure Boot implemented by modern operating systems against bootkits.
 
